@@ -1,0 +1,7 @@
+The problem addressed in this project is designing a simple yet functional version of the Tic Tac Toe game that operates in a command-line environment. The aim is to create an interactive game where the user plays against a computer, with the program correctly identifying valid moves, illegal moves, wins, and draw situations. This helps demonstrate how basic artificial opponents and game mechanics can be handled using Python.
+
+The scope of the project is limited to a single-player mode where the user plays against a computer making random choices. It focuses on displaying the game board, taking user input, validating moves, checking winning conditions, and terminating the game appropriately. The project restricts itself to console output without any graphical interface, keeping the structure simple and easy to follow.
+
+The target users of this game are beginners who are learning Python and want to understand how loops, arrays, conditions, and game logic work together. It is also useful for students working on introductory programming projects or assignments involving small console applications.
+
+At a high level, the project features a dynamic game board display, user input handling, automatic computer moves, win/draw detection, and a clearly structured code layout. Together, these features create a smooth and understandable experience for anyone exploring basic game development concepts in Python.
