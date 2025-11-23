@@ -1,2 +1,7 @@
-# TIC-TAC-TOE
- A Python-based Tic Tac Toe game featuring a graphical user interface and two-player support.
+This project is a simple Python-based implementation of the classic Tic Tac Toe game, where a human player competes against the computer in a 3×3 grid. The game runs entirely in the terminal and updates the board after every move, giving the user a clear and interactive playing experience. The computer selects its moves randomly, and the program checks for wins, losses, or draws after each turn. The main goal of the project is to offer a lightweight, easy-to-understand example of using arrays, loops, and conditional logic in Python.
+
+The game provides a clean display of the board, prevents invalid or duplicate moves, and offers clear end-game messages when either the player or computer wins. The use of simple logic makes the program approachable for beginners while still demonstrating structured programming concepts.
+
+This project is built using Python and the NumPy library. NumPy is used mainly to manage the board as an array, making updates and checks efficient. To run this project, a user simply needs Python installed along with NumPy, after which the script can be executed directly in any terminal.
+
+To install and run the project, the user must first ensure that Python is available on their system. NumPy can then be added through a simple pip command. Once that is done, the script may be saved as a .py file and executed using the Python interpreter. During testing, the user can try various move combinations, attempt invalid inputs, and observe how the program handles winning, drawing, and ongoing game states.
